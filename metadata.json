@@ -1,0 +1,11 @@
+{
+  "name": "Remix: 03.04-Hostel Bites Pro",
+  "description": "Enterprise-grade hostel canteen pre-ordering with real-time analytics, PWA notifications, and live TV tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "permissions": [
+    "notifications"
+  ],
+  "majorCapabilities": []
+}
